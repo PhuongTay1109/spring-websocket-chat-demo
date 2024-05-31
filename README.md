@@ -3,10 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Group Chat Application</title>
 </head>
 <body>
-    <h1>Simple Group Chat Application</h1>
+    <h1>Spring Websocket Chat Demo</h1>
     <p>This is a simple group chat application built using Spring Boot and WebSocket. The project demonstrates how to set up a real-time chat service where multiple users can join a chat room and communicate with each other.</p>
 
     <h2>Features</h2>
