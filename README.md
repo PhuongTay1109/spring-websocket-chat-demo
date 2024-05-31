@@ -20,7 +20,8 @@
     <ul>
         <li><strong>Spring Boot</strong>: For the backend framework.</li>
         <li><strong>WebSocket</strong>: For real-time communication.</li>
-        <li><strong>HTML, CSS, JS</strong>: For the frontend.</li>
+        <li><strong>Thymeleaf</strong>: For rendering the front-end views.</li>
+        <li><strong>Bootstrap</strong>: For styling the front-end.</li>
     </ul>
 
     <h2>Getting Started</h2>
@@ -33,7 +34,7 @@
     <h3>Installation</h3>
     <ol>
         <li>Clone the repository:
-            <pre><code>git clone https://github.com/PhuongTay1109/spring-websocket-chat-demo
+            <pre><code>git clone https://github.com/your-username/simple-group-chat.git
 cd simple-group-chat
             </code></pre>
         </li>
@@ -55,5 +56,13 @@ cd simple-group-chat
         <li>Start sending messages and see them appear in real-time.</li>
     </ol>
 
+    <h2>Contributing</h2>
+    <p>If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome any improvements or bug fixes.</p>
+
+    <h2>License</h2>
+    <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+
+    <h2>Contact</h2>
+    <p>If you have any questions or feedback, feel free to reach out to me at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
 </body>
 </html>
