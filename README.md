@@ -18,8 +18,7 @@
     <ul>
         <li><strong>Spring Boot</strong>: For the backend framework.</li>
         <li><strong>WebSocket</strong>: For real-time communication.</li>
-        <li><strong>Thymeleaf</strong>: For rendering the front-end views.</li>
-        <li><strong>Bootstrap</strong>: For styling the front-end.</li>
+        <li><strong>HTML, CSS, JS</strong>: For the frontend.</li>
     </ul>
     <h2>Getting Started</h2>
     <h3>Prerequisites</h3>
