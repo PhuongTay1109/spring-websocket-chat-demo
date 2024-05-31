@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Spring Websocket Chat Demo</h1>
+    <h1>Spring WebSocket Chat Demo</h1>
     <p>This is a simple group chat application built using Spring Boot and WebSocket. The project demonstrates how to set up a real-time chat service where multiple users can join a chat room and communicate with each other.</p>
     <h2>Features</h2>
     <ul>
@@ -29,8 +29,8 @@
     <h3>Installation</h3>
     <ol>
         <li>Clone the repository:
-            <pre><code>git clone https://github.com/your-username/simple-group-chat.git
-cd simple-group-chat
+            <pre><code>git clone https://github.com/PhuongTay1109/spring-websocket-chat-demo.git
+cd realtime-chat
             </code></pre>
         </li>
         <li>Build the project:
