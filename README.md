@@ -30,7 +30,7 @@
     <ol>
         <li>Clone the repository:
             <pre><code>git clone https://github.com/PhuongTay1109/spring-websocket-chat-demo.git
-cd realtime-chat
+cd spring-websocket-chat-demo
             </code></pre>
         </li>
         <li>Build the project:
